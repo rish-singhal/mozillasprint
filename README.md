@@ -1,2 +1,2 @@
 # mozillasprint '19
-    This webpage is made by Rishabh Singhal
+    Landing Page for mozilla sprint 2019, Hyderabad Edition. 
